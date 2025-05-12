@@ -4,3 +4,8 @@
 import numpy as np
 import xarray as xr
 import os
+
+# Read .zarr file
+
+
+# Plot t=0 to check data
